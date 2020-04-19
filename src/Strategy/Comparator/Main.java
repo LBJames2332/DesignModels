@@ -9,5 +9,6 @@ public class Main {
         for (int i = 0;i < arr_dog.length;i++){
             System.out.println(arr_dog[i].toString());
         }
+        System.out.println("已提交");
     }
 }
